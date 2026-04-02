@@ -2,7 +2,7 @@ from google import genai
 import prompts
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyD-m3QjtAqZes4bcBRap3CZWdgLPz4zqwo"
+GEMINI_API_KEY = "PUT_YOUR_KEY_HERE"
 
 def get_ai_response(content):
     """
