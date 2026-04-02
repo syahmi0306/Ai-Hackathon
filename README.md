@@ -1,6 +1,6 @@
-# ShieldAI - Scam & Fraud Detection Assistant 🛡️
+# TechFusionAI - Scam & Fraud Detection Assistant 🛡️
 
-ShieldAI is an intelligent system designed to protect users from digital threats by analyzing messages, emails, and links for scam indicators. This project was developed for the **National Level AI Hackathon 2026**.
+TechFusionAI is an intelligent system designed to protect users from digital threats by analyzing messages, emails, and links for scam indicators. This project was developed for the **National Level AI Hackathon 2026**.
 
 ## Features
 - **Message/Email Analysis**: Paste any suspicious text to get a risk score and detailed breakdown of scam indicators.
